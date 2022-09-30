@@ -1,4 +1,4 @@
-### Hi there 👋
+### C#, Shader Programmer
 
 <p align="left">
 
